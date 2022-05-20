@@ -2,7 +2,7 @@
 
 int main(){
      int a;
-     printf("Podaj liczbe: ");
+     printf("Podaj liczbe calkowita: ");
      scanf("%d", &a);
 
      return 0;
