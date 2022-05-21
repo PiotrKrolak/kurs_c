@@ -5,5 +5,7 @@ int main(){
      printf("Podaj liczbe calkowita: ");
      scanf("%d", &a);
 
+     printf("Podana liczba to: %d", a);
+
      return 0;
 }
